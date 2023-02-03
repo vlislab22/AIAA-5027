@@ -52,7 +52,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 
 ##  Reading list
 
-### DNN models in computer vision (VAEs, GANs, RNNs)
+### DNN models in computer vision (VAEs, GANs, Diffusion models)
 #### VAEs
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114v10.pdf) Auto-Encoding Variational Bayes, ICLR 2014. </br>
 [[Kingma et al. 15]](https://arxiv.org/pdf/1506.02557.pdf) Variational Dropout and the Local Reparameterization Trick, NIPS 2015.</br>
