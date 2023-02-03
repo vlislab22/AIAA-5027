@@ -3,8 +3,8 @@
 ## Course information
 
 * Instructor: WANG Lin (linwang@ust.hk)
-* TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
-* Class time: Monday & Friday 16.30 -17.50 
+* TAs: WU Hao (wuhao@email), BAI Haotian (haotianbai@ust.hk) and CAO Zidong (zidongcao@ust.hk)
+* Class time: Mon. 16.30 -17.50  & Fri. 10.30-11.50
 * Office Hours: BY appointment only.
 
 ## Course description
