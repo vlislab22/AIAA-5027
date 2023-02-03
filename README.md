@@ -53,7 +53,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 ##  Reading list
 
 ### DNN models in computer vision (VAEs, GANs, Diffusion models)
-#### VAEs
+#### VAEs 
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114v10.pdf) Auto-Encoding Variational Bayes, ICLR 2014. </br>
 [[Kingma et al. 15]](https://arxiv.org/pdf/1506.02557.pdf) Variational Dropout and the Local Reparameterization Trick, NIPS 2015.</br>
 [[Blundell et al. 15]](https://arxiv.org/pdf/1505.05424.pdf) Weight Uncertainty in Neural Networks, ICML 2015.</br>
@@ -71,7 +71,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Huang et al. 17]](https://arxiv.org/pdf/1703.06868.pdf) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization, ICCV, 2017. </br>
 [[Huang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)  Multimodal Unsupervised Image-to-Image Translation, ECCV, 2018. </br>
 
----
+--- (for students)
 
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
 [[Karras et al. 19] ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
@@ -91,6 +91,16 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_Transfer_Learning_for_Image-to-Image_Translation_From_Small_Datasets_ICCV_2021_paper.pdf) TransferI2I: Transfer Learning for Image-to-Image Translation from Small Datasets, ICCV, 2021. </br>
 [[Yang et al. 21]](https://arxiv.org/pdf/2111.10346.pdf) Global and Local Alignment Networks for Unpaired Image-to-Image Translation, Arxiv 2021. </br>
 [[Jiang et al. 21]](https://arxiv.org/pdf/2012.12821v3.pdf)  Focal Frequency Loss for Image Reconstruction and Synthesis, ICCV, 2021.
+
+#### DIffusion Model 
+[[Meng et al. 22]](https://openreview.net/forum?id=aBsCjcPu_tE) SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, ICLR, 2022.
+[[Song et al. 21]](https://arxiv.org/abs/2011.13456)  "Score-based generative modeling through stochastic differential equations, ICLR, 2021.
+
+--- (for students)
+
+[[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.
+[[Openreview]](https://openreview.net/pdf?id=lsQCDXjOl3k) "Unconditional Diffusion Guidance, Openreview, 2022.
+
 
 ### Learning methods in computer vision
 #### Knowledge transfer 
