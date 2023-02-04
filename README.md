@@ -22,8 +22,8 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | --- | --- | --- |
 | 2/6 | Course introduction | |
 | 2/10 | Course introduction | Overview of visual intelligence |
-| 2/13 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
-| 2/17 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
+| 2/13 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
+| 2/17 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
 | 2/20 | DNN models in computer vision (VAE, GAN, Diffusion models) |   |
 | 2/24 | DNN models in computer vision (VAE, GAN, Diffusion models) |  (1) Persenation (2) Review due 2/26 (3) Project meetings |
 | 2/27 | Learning methods in computer vision (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
