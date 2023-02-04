@@ -21,7 +21,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | Dates | Topics | Active Learning |
 | --- | --- | --- |
 | 2/6 | Course introduction | |
-| 2/10 | Course introduction | Overview of computer vision, graphics |
+| 2/10 | Course introduction | Overview of visual intelligence |
 | 2/13 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
 | 2/17 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
 | 2/20 | DNN models in computer vision (VAEs, GAN, Diffusion models) |   |
@@ -40,12 +40,12 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 4/10 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/9 |
 | 4/14 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
 | 4/17 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/16 (3) Project meetings |
-| 4/21 |Depth and Motion Estimation (SLAM)  |  |
-| 4/24 |Depth and Motion Estimation (SLAM) | (1) Persenation (2) Review due 4/23 |
+| 4/21 |Depth and motion estimation (SLAM)  |  |
+| 4/24 |Depth and motion estimation (SLAM) | (1) Persenation (2) Review due 4/23 |
 | 4/28 |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
 | 5/8 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persenation (2) Review due 4/30 (3) Project meetings |
-| 5/12  |Potential and Challenges in computer vision (data, computation, learning, sensor) (NeRF for 3D reconstruction) |  |
-| 5/15 |Potential and Challenges in computer vision (data, computation, learning, sensor) (NeRF for 3D reconstruction)| (1) TA/Student lectures (2) final project Q/A  |
+| 5/12 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction) |  |
+| 5/15 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction)| (1) TA/Student lectures (2) final project Q/A  |
 | 5/19 |Project presentation and final paper submission |  |
 | 5/22 |Project presentation and final paper submission | Submission due 5/30  |
 
