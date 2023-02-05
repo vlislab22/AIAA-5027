@@ -31,7 +31,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 3/6  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
 | 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persenation (2) Review due 3/12 (3) Project proposal kick-off (one page) |
 | 3/13 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
-| 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging  |  (1) Persenation (2) Review due 3/19 |
+| 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Persenation (2) Review due 3/19 |
 | 3/20 |Deep learning for scene understanding (I) Object detection & tracking |  |
 | 3/24 |Deep learning for scene understanding (I) Object detection & tracking | Project mid-term presentation |
 | 3/27 |Deep learning for scene understanding (II) Semantic segmentation  |  |
@@ -71,7 +71,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Huang et al. 17]](https://arxiv.org/pdf/1703.06868.pdf) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization, ICCV, 2017. </br>
 [[Huang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)  Multimodal Unsupervised Image-to-Image Translation, ECCV, 2018. </br>
 
---- (for students)
+--- (**students' reading list**) ---
 
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
 [[Karras et al. 19] ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
@@ -90,17 +90,33 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Baek et al. 21]](https://arxiv.org/pdf/2006.06500.pdf) Rethinking the Truly Unsupervised Image-to-Image Translation, ICCV, 2021.   </br>
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_Transfer_Learning_for_Image-to-Image_Translation_From_Small_Datasets_ICCV_2021_paper.pdf) TransferI2I: Transfer Learning for Image-to-Image Translation from Small Datasets, ICCV, 2021. </br>
 [[Yang et al. 21]](https://arxiv.org/pdf/2111.10346.pdf) Global and Local Alignment Networks for Unpaired Image-to-Image Translation, Arxiv 2021. </br>
-[[Jiang et al. 21]](https://arxiv.org/pdf/2012.12821v3.pdf)  Focal Frequency Loss for Image Reconstruction and Synthesis, ICCV, 2021.
+[[Jiang et al. 21]](https://arxiv.org/pdf/2012.12821v3.pdf)  Focal Frequency Loss for Image Reconstruction and Synthesis, ICCV, 2021.  </br>
+[[Zhang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_StyleSwin_Transformer-Based_GAN_for_High-Resolution_Image_Generation_CVPR_2022_paper.pdf) StyleSwin: Transformer-based GAN for High-resolution Image Generation, CVPR, 2022.   </br>
+[[Liao et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf) Text to Image Generation with Semantic-Spatial Aware GAN, CVPR, 2022.   </br>
+[[Zhou et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf) Towards Language-Free Training for Text-to-Image Generation, CVPR, 2022.   </br>
+[[Zhan et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhan_Marginal_Contrastive_Correspondence_for_Guided_Image_Generation_CVPR_2022_paper.pdf) Marginal Contrastive Correspondence for Guided Image Generation, CVPR, 2022.  </br>
+[[Fruhstuck et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fruhstuck_InsetGAN_for_Full-Body_Image_Generation_CVPR_2022_paper.pdf) InsetGAN for Full-Body Image Generation, CVPR, 2022.  </br>
+[[He et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740626.pdf) PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation, ECCV, 2022.  </br>
+[[Yang et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750036.pdf) WaveGAN: Frequency-Aware GAN for High-Fidelity Few-Shot Image Generation, ECCV, 2022.  </br>
+[[Bai et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750036.pdf) High-fidelity GAN Inversion with Padding Space, ECCV, 2022.  </br>
 
 #### DIffusion Model 
-[[Meng et al. 22]](https://openreview.net/forum?id=aBsCjcPu_tE) SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, ICLR, 2022.
-[[Song et al. 21]](https://arxiv.org/abs/2011.13456)  "Score-based generative modeling through stochastic differential equations, ICLR, 2021.
+[[Sohl-Dickstein et al., 2015]](https://arxiv.org/abs/1503.03585)  Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML , 2015. </br>
+[[Song et al. 2019]](https://arxiv.org/pdf/1907.05600.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  </br>
+[[Ho et al. 21]](https://arxiv.org/abs/2006.11239) Denoising Diffusion Probabilistic Models (DDPM), ICLR, 2021. </br>
+[[Song et al. 21]](https://arxiv.org/pdf/2010.02502.pdf) Denoising Diffusion Implicit Models (DDIM), ICLR, 2021. </br>
 
---- (for students)
+--- (**students' reading list**) ---
 
-[[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.
-[[Openreview]](https://openreview.net/pdf?id=lsQCDXjOl3k) "Unconditional Diffusion Guidance, Openreview, 2022.
-
+[[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.  </br>
+[[Openreview]](https://openreview.net/pdf?id=lsQCDXjOl3k) "Unconditional Diffusion Guidance, Openreview, 2022. </br>
+[[Bao et al. 22]](https://arxiv.org/abs/2206.07309) Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models, ICML 2022. </br>
+[[Dhariwal et al. 21]](https://arxiv.org/pdf/2105.05233.pdf) Diffusion Models Beat GANs on Image Synthesis, NIPS, 2021. 
+[[Meng et al. 22]](https://openreview.net/forum?id=aBsCjcPu_tE) SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, ICLR, 2022. </br>
+[[Song et al. 21]](https://arxiv.org/abs/2011.13456)  Score-based generative modeling through stochastic differential equations, ICLR, 2021. </br>
+[[Nichol et al. 21]](https://arxiv.org/abs/2102.09672) Improved Denoising Diffusion Probabilistic Models, ICML, 2021.   </br>
+[[Rombach et al. 22]](https://arxiv.org/abs/2112.10752) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR, 2022.  </br>
+[[Ho et al. 21]](https://arxiv.org/pdf/2106.15282.pdf) Cascaded Diffusion Models for High Fidelity Image Generation, Arxiv, 2021. </br>
 
 ### Learning methods in computer vision
 #### Knowledge transfer 
@@ -463,7 +479,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation, CVPR, 2020. </br>
 [[Sun et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf) ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps, ICCV, 2021. </br>
 [[Chang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf) Weakly-Supervised Semantic Segmentation via Sub-category Exploration, CVPR, 2020. </br>
-
+[[]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GANSeg_Learning_To_Segment_by_Unsupervised_Hierarchical_Image_Generation_CVPR_2022_paper.pdf) GANSeg: Learning to Segment by Unsupervised Hierarchical Image Generation, CVPR, 2022.
 
 ### Computer vision with novel camera sensors  (1)- Event-based vision
 [[Zhang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)  Learning to See in the Dark with Events, ECCV, 2020.  </br>
