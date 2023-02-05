@@ -111,7 +111,7 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.  </br>
 [[Openreview]](https://openreview.net/pdf?id=lsQCDXjOl3k) "Unconditional Diffusion Guidance, Openreview, 2022. </br>
 [[Bao et al. 22]](https://arxiv.org/abs/2206.07309) Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models, ICML 2022. </br>
-[[Dhariwal et al. 21]](https://arxiv.org/pdf/2105.05233.pdf) Diffusion Models Beat GANs on Image Synthesis, NIPS, 2021. 
+[[Dhariwal et al. 21]](https://arxiv.org/pdf/2105.05233.pdf) Diffusion Models Beat GANs on Image Synthesis, NIPS, 2021.   </br>
 [[Meng et al. 22]](https://openreview.net/forum?id=aBsCjcPu_tE) SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, ICLR, 2022. </br>
 [[Song et al. 21]](https://arxiv.org/abs/2011.13456)  Score-based generative modeling through stochastic differential equations, ICLR, 2021. </br>
 [[Nichol et al. 21]](https://arxiv.org/abs/2102.09672) Improved Denoising Diffusion Probabilistic Models, ICML, 2021.   </br>
