@@ -1,4 +1,4 @@
-# Deep Learning for Visual Intelligence: Trends and Challenges 
+# AIAA 5127: Deep Learning for Visual Intelligence: Trends and Challenges 
 
 ## Course information
 
