@@ -3,7 +3,7 @@
 ## Course information
 
 * Instructor: [[WANG Lin]](https://addisonwang2013.github.io/vlislab) (linwang@ust.hk)
-* TAs: WU Hao (wuhao@email), BAI Haotian (haotianbai@ust.hk) and CAO Zidong (zidongcao@ust.hk)
+* TAs: WU Hao (hwubx@connect.ust.hk), BAI Haotian (haotianbai@ust.hk) and CAO Zidong (zidongcao@ust.hk)
 * Class time: Mon. 16.30 -17.50  & Fri. 10.30-11.50
 * Office hours: BY appointment only.
 
