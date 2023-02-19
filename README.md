@@ -132,7 +132,7 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Heo et al. 19]](https://arxiv.org/pdf/1904.01866.pdf) A Comprehensive Overhaul of Feature Distillation, ICCV, 2019.  </br>
 [[Tung et al.19]](https://arxiv.org/pdf/1907.09682.pdf) Similarity-Preserving Knowledge Distillation, ICCV, 2019.   </br>
 
----
+--- Student's reading list-------------------- </br>
 [[Chen et al. 19]](https://www.wangyunhe.site/data/2019%20ICCV%20DAFL.pdf) DAFL:Data-Free Learning of Student Networks, ICCV, 2019. </br>
 [[Ahn et al. 19]](https://arxiv.org/pdf/1904.05835.pdf) Variational Information Distillation for Knowledge Transfer, CVPR, 2019.  </br>
 [[Tian et al. 20]](https://arxiv.org/pdf/1910.10699v2.pdf)  Contrastive Representation Distillation, ICLR, 2020.  </br>
@@ -147,6 +147,16 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[ZHu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf) Student Customized Knowledge Distillation: Bridging the Gap Between Student and Teacher, ICCV,  2021. </br>
 [[Kim et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Self-Knowledge_Distillation_With_Progressive_Refinement_of_Targets_ICCV_2021_paper.pdf) Self-Knowledge Distillation with Progressive Refinement of Targets, ICCV, 2021.   </br>
 [[Son et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Son_Densely_Guided_Knowledge_Distillation_Using_Multiple_Teacher_Assistants_ICCV_2021_paper.pdf)  Densely Guided Knowledge Distillation using Multiple Teacher Assistants, ICCV, 2021.  </br>
+[[Zhao et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.pdf)  Decoupled Knowledge Distillation, CVPR, 2022.  </br>
+[[Chen et al. 22]](https://arxiv.org/pdf/2203.14001.pdf)  Knowledge Distillation with the Reused Teacher Classifier, CVPR, 2022.  </br>
+[[Beyer et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.pdf)  Knowledge distillation: A good teacher is patient and consistent, CVPR, 2022.  </br>
+[[Lin et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Knowledge_Distillation_via_the_Target-Aware_Transformer_CVPR_2022_paper.pdf)  Knowledge Distillation via the Target-aware Transformer, CVPR, 2022.  </br>
+[[Yang et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840527.pdf)  MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition, ECCV, 2022.  </br>
+[[Shen et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840663.pdf) A Fast Knowledge Distillation Framework for Visual Recognition,ECCV,2022.  </br>
+[[Shin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720622.pdf) Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition, ECCV,2022.  </br>
+[[Deng et al. 22]](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_16) Personalized Education: Blind Knowledge Distillation, ECCV,2022.  </br>
+[[Chen et al. 23]](https://openreview.net/pdf?id=8jU7wy7N7mA)  Supervision Complexity and its Role in Knowledge Distillation, ICLR, 2023.  </br>
+
 
 #### Domain Adaptation
 [[Long et al. 15] ](https://arxiv.org/pdf/1502.02791.pdf)Learning Transferable Features with Deep Adaptation Networks, ICML, 2015. </br>
@@ -172,8 +182,8 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Chen et al. 19]](https://arxiv.org/pdf/1811.08585.pdf) Progressive Feature Alignment for Unsupervised Domain Adaptation, CVPR 2019. </br>
 [[Zhang et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf)  Progressive Feature Alignment for Unsupervised Domain Adaptation, CVPR 2018. </br>
 [[Kang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)  Contrastive Adaptation Network for Unsupervised Domain Adaptation, CVPR 2019. </br>
-
----
+ 
+------ Students' reading list----------------------------------------------</br>
 [[Guizilini et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guizilini_Geometric_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf)  Geometric Unsupervised Domain Adaptation for Semantic Segmentation, ICCV, 2021. </br>
 [[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530715.pdf)  Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation, ECCV, 2020.  </br>
 [[Peng et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510749.pdf) Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation, ECCV, 2020. </br>
@@ -186,7 +196,21 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Wu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_DANNet_A_One-Stage_Domain_Adaptation_Network_for_Unsupervised_Nighttime_Semantic_CVPR_2021_paper.pdf) DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation, CVPR, 2021. </br>
 [[Lengyel et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lengyel_Zero-Shot_Day-Night_Domain_Adaptation_With_a_Physics_Prior_ICCV_2021_paper.pdf) Zero-Shot Day-Night Domain Adaptation with a Physics Prior, ICCV, 2021. </br>
 [[Li et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Semantic_Concentration_for_Domain_Adaptation_ICCV_2021_paper.pdf)  Semantic Concentration for Domain Adaptation, ICCV, 2021. </br>
-[[Awais et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Awais_Adversarial_Robustness_for_Unsupervised_Domain_Adaptation_ICCV_2021_paper.pdf)  Adversarial Robustness for Unsupervised Domain Adaptation, ICCV, 2021.
+[[Awais et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Awais_Adversarial_Robustness_for_Unsupervised_Domain_Adaptation_ICCV_2021_paper.pdf)  Adversarial Robustness for Unsupervised Domain Adaptation, ICCV, 2021.  </br>
+[[Huang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Category_Contrast_for_Unsupervised_Domain_Adaptation_in_Visual_Tasks_CVPR_2022_paper.pdf)  Category Contrast for Unsupervised Domain Adaptation in Visual Tasks, CVPR, 2022.  </br>
+[[Wang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.pdf)  Exploring Domain-Invariant Parameters for Source Free Domain Adaptation, CVPR, 2022.</br>
+[[Ding et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Source-Free_Domain_Adaptation_via_Distribution_Estimation_CVPR_2022_paper.pdf) Source-Free Domain Adaptation via Distribution Estimation, CVPR, 2022.</br>
+[[Ding et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Test-Time_Domain_Adaptation_CVPR_2022_paper.pdf) Continual Test-Time Domain Adaptation, CVPR, 2022.</br>
+[[Chen et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.pdf) Reusing the Task-specific Classifier as a Discriminator:
+Discriminator-free Adversarial Domain Adaptation, CVPR, 2022.</br>
+[[Oh et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810619.pdf) Reusing the Task-specific Classifier as a Discriminator:
+Discriminator-free Adversarial Domain Adaptation, ECCV, 2022.</br>
+[[Roy et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850530.pdf) Uncertainty-guided Source-free Domain Adaptation, ECCV, 2022.</br>
+[[Lin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930345.pdf) Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation, ECCV, 2022.</br>
+[[Lin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930520.pdf) Adversarial Partial Domain Adaptation by Cycle Inconsistency, ECCV, 2022.</br>
+[[Sun et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930628.pdf) Prior Knowledge Guided Unsupervised Domain Adaptationy, ECCV, 2022.</br>
+
+
 
 #### Semi-supervised learning 
 [[Sajjadi et al. 16]](https://arxiv.org/pdf/1606.04586.pdf) Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning, NIPS, 2016. </br>
@@ -203,7 +227,8 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Sohn et al. 20]](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, NIPS, 2020. </br>
 [[Quali et al. 20]](https://arxiv.org/pdf/2006.05278.pdf)  An Overview of Deep Semi-Supervised Learning, 2020. </br>
 
---- 
+----- Students' reading list-------------------</br>
+
 [[Ke et al. 19]](https://arxiv.org/pdf/1909.01804.pdf) Dual Student: Breaking the Limits of the Teacher in Semi-supervised Learning, ICCV, 2019. </br>
 [[Luo et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500766.pdf) Semi-supervised Semantic Segmentation via Strong-weak Dual-branch Network, ECCV, 2020. </br> 
 [[Gao et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550511.pdf) Consistency-based Semi-supervised Active Learning: Towards Minimizing Labeling Cost, ECCV, 2020. </br>
@@ -215,6 +240,14 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Hu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_SimPLE_Similar_Pseudo_Label_Exploitation_for_Semi-Supervised_Classification_CVPR_2021_paper.pdf) SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification,CVPR,2021. </br>
  [[Zhou et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_C3-SemiSeg_Contrastive_Semi-Supervised_Segmentation_via_Cross-Set_Learning_and_Dynamic_Class-Balancing_ICCV_2021_paper.pdf) Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation, ICCV, 2021. </br>
 [[Xiong et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf) Multiview Pseudo-Labeling for Semi-supervised Learning from Video, ICCV, 2021. </br>
+[[Wang et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900423.pdf) Unsupervised Selective Labeling for More
+Effective Semi-Supervised Learning, ECCV, 2022. </br>
+[[Qin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900477.pdf) Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation, ECCV, 2022. </br>
+[[Weng et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900596.pdf) Semi-Supervised Vision Transformers, ECCV, 2022. </br>
+[[Kim et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900665.pdf) ConMatch: Semi-Supervised Learning with Confidence-Guided Consistency Regularization, ECCV, 2022. </br>
+[[Zheng et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.pdf) SimMatch: Semi-supervised Learning with Similarity Matching, CVPR, 2022. </br>
+[[Fan et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CoSSL_Co-Learning_of_Representation_and_Classifier_for_Imbalanced_Semi-Supervised_Learning_CVPR_2022_paper.pdf) CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning, CVPR, 2022. </br>
+[[Yang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.pdf) Class-Aware Contrastive Semi-Supervised Learning, CVPR, 2022. </br>
 
 ### Image restoration and enhancement 
 
