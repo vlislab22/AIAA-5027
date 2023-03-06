@@ -264,7 +264,7 @@ Effective Semi-Supervised Learning, ECCV, 2022. </br>
 [[Purohit et al. 20]](https://arxiv.org/pdf/1903.11394.pdf) Region-Adaptive Dense Network for Efficient Motion Deblurring, AAAI,2020. (SoTA of single image deblur on GoPro dataset) </br> 
 [[Shen et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shen_Human-Aware_Motion_Deblurring_ICCV_2019_paper.pdf)  Human-Aware Motion Deblurring, ICCV, 2019. </br> 
 
----- 
+---- Students' reading list---------------------------------------
 
 [[Rim et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)  Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms, ECCV, 2020. </br> 
 [[Lin et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf) Learning Event-Driven Video Deblurring and Interpolation, ECCV, 2020.   </br> 
@@ -278,6 +278,11 @@ Effective Semi-Supervised Learning, ECCV, 2022. </br>
 [[Shang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.pdf)  Bringing Events into Video Deblurring with Non-consecutively Blurry Frames, ICCV, 2021.   </br> 
 [[Deng et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf) Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring, ICCV, 2021.  </br> 
 [[Hu et al 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.pdf)  Pyramid Architecture Search for Real-Time Image Deblurring, ICCV, 2021.  </br> 
+[[Ji et al 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ji_XYDeblur_Divide_and_Conquer_for_Single_Image_Deblurring_CVPR_2022_paper.pdf)  XYDeblur: Divide and Conquer for Single Image Deblurring, CVPR, 2022.  </br> 
+[[Whang et al 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf)  Deblurring via Stochastic Refinement, CVPR, 2022.  </br> 
+[[Li et al 22]](https://arxiv.org/pdf/2208.05244.pdf) Learning Degradation Representations for Image Deblurring, ECCV, 2022.  </br> 
+[[Tsai et al 22]]https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4651_ECCV_2022_paper.php) Stripformer: Strip Transformer for Fast Image Deblurring, ECCV, 2022.  </br> 
+[[Zhong et al 22]](https://arxiv.org/pdf/2207.10123.pdf)  Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance, ECCV, 2022. </br> 
 
 #### Image deraining 
 [[Li et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf) Single Image Deraining: A Comprehensive Benchmark Analysis, CVPR, 2019. </br>
@@ -292,7 +297,7 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017. </br> 
 [[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019. </br> 
 
---- 
+--- Students' reading list-------------------------
 [[Yasarla et al. 20]](https://arxiv.org/pdf/2006.05580.pdf)  Syn2Real Transfer Learning for Image Deraining using Gaussian Processes, CVPR, 2020.   </br> 
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf) Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer, ICCV, 2021. </br> 
 [[Zhou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)  Image De-raining via Continual Learning, CVPR, 2021.   </br> 
@@ -304,7 +309,9 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)  Pre-Trained Image Processing Transformer, CVPR, 2021.  </br> 
 [[Jiang et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Multi-Scale_Progressive_Fusion_Network_for_Single_Image_Deraining_CVPR_2020_paper.pdf)  Multi-Scale Progressive Fusion Network for Single Image Deraining, CVPR, 2020.   </br> 
 [[Fu et al. 20]](https://arxiv.org/pdf/1805.06173.pdf)  Lightweight Pyramid Networks for Image Deraining, IEEE Transactions on Neural Networks and Learning Systems, 2020. </br> 
-
+[[Ba et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670713.pdf)  Not Just Streaks: Towards Ground Truth for Single Image Deraining, ECCV, 2022. </br> 
+[[Ye et al. 22]](https://arxiv.org/pdf/2203.11509.pdf)  Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity, CVPR, 2022. </br> 
+[[Chen et al. 22]](https://arxiv.org/pdf/2109.02973.pdf) Unpaired Deep Image Deraining Using Dual Contrastive Learning, CVPR, 2022. </br> 
 
 ### Image dehazing
 [[Gui et al. 21]](https://arxiv.org/pdf/2106.03323.pdf) A Comprehensive Survey on Image Dehazing Based on Deep Learning, IJCAI, 2021.  </br> 
@@ -322,7 +329,7 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Engin et al. 18]]( https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Engin_Cycle-Dehaze_Enhanced_CycleGAN_CVPR_2018_paper.pdf )Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing, ECCVW, 2018. </br> 
 [[Li et al. 20]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=9170880&tag=1) Zero-Shot Image Dehazing, IEEE TIP, 2020.  </br> 
 
---- 
+--- Students' reading list-----------------------------
 [[Wu et al. 21]](https://arxiv.org/pdf/2104.09367.pdf) Contrastive Learning for Compact Single Image Dehazing, CVPR, 2021. </br> 
 [[Shyam et al. 21]](https://arxiv.org/pdf/2101.10449.pdf) Towards Domain Invariant Single Image Dehazing, AAAI, 2021. </br> 
 [[Zheng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf) Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning, CVPR, 2021. </br> 
@@ -330,7 +337,11 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Zhao et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) BidNet: Binocular Image Dehazing without Explicit Disparity Estimation, CVPR, 2021.   </br> 
 [[Kar et al. 21]](http://xxx.itp.ac.cn/pdf/2008.01701v1) Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing, CVPR, 2021. </br> 
 [[Li et al. 20]](https://ieeexplore.ieee.org/abstract/document/8902220) Semi-Supervised Image Dehazing, IEEE TIP, 2020.  </br> 
-[[Yi et al. 21]](https://arxiv.org/pdf/2102.03501.pdf)  Two-Step Image Dehazing with Intra-domain and Inter-domain Adaptation, Arxiv, 2021.
+[[Yi et al. 21]](https://arxiv.org/pdf/2102.03501.pdf)  Two-Step Image Dehazing with Intra-domain and Inter-domain Adaptation, Arxiv, 2021.</br> 
+[[Liu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Multi-Domain_Single_Image_Dehazing_via_Test-Time_Training_CVPR_2022_paper.pdf)  Towards Multi-Domain Single Image Dehazing via Test-Time Training, CVPR, 2022. </br> 
+[[Yang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.pdf) Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition, CVPR, 2022. </br> 
+[[Chen et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770636.pdf) Unpaired Deep Image Dehazing Using
+Contrastive Disentanglement Learning, ECCV, 2022. </br> 
 
 ####  Image/Video Super-Resolution 
 [[Dong et al. 16]](https://arxiv.org/pdf/1501.00092.pdf) mage Super-Resolution Using Deep Convolutional Networks, ECCV,2016.(First deep learning-based method)  </br>
