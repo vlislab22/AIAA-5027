@@ -331,6 +331,7 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Li et al. 20]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=9170880&tag=1) Zero-Shot Image Dehazing, IEEE TIP, 2020.  </br> 
 
 --- Students' reading list-----------------------------
+
 [[Wu et al. 21]](https://arxiv.org/pdf/2104.09367.pdf) Contrastive Learning for Compact Single Image Dehazing, CVPR, 2021. </br> 
 [[Shyam et al. 21]](https://arxiv.org/pdf/2101.10449.pdf) Towards Domain Invariant Single Image Dehazing, AAAI, 2021. </br> 
 [[Zheng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf) Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning, CVPR, 2021. </br> 
