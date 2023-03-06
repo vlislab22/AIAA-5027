@@ -298,6 +298,7 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019. </br> 
 
 --- Students' reading list-------------------------
+
 [[Yasarla et al. 20]](https://arxiv.org/pdf/2006.05580.pdf)  Syn2Real Transfer Learning for Image Deraining using Gaussian Processes, CVPR, 2020.   </br> 
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf) Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer, ICCV, 2021. </br> 
 [[Zhou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)  Image De-raining via Continual Learning, CVPR, 2021.   </br> 
