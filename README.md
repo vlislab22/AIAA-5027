@@ -372,7 +372,8 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Maeda et a. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf) Unpaired Image Super-Resolution using Pseudo-Supervision, CVPR, 2020. </br> 
 [[Shocher et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shocher_Zero-Shot_Super-Resolution_Using_CVPR_2018_paper.pdf) “Zero-Shot” Super-Resolution using Deep Internal Learning, CVPR, 2018. </br> 
 
-----
+------- Students' reading list---------------------------------------------------
+
 [[Wei et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_Unsupervised_Real-World_Image_Super_Resolution_via_Domain-Distance_Aware_Training_CVPR_2021_paper.pdf) Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective, ICCV, 2021. </br> 
 [[Zhang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Data-Free_Knowledge_Distillation_for_Image_Super-Resolution_CVPR_2021_paper.pdf) Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training, CVPR, 2021.   </br> 
 [[Sefi et al. 20]](https://arxiv.org/pdf/1909.06581.pdf) Blind Super-Resolution Kernel Estimation using an Internal-GAN, NIPS, 2020.  </br> 
@@ -388,7 +389,12 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
 [[Tian et al. 20]](https://arxiv.org/pdf/1812.02898.pdf) TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, CVPR, 2020. </br> 
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf)  EDVR: Video Restoration With Enhanced Deformable Convolutional Networks, CVPRW, 2019. </br> 
-
+[[Guo et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_LAR-SR_A_Local_Autoregressive_Model_for_Image_Super-Resolution_CVPR_2022_paper.pdf)  LAR-SR: A Local Autoregressive Model for Image Super-Resolution, CVPR, 2022. </br> 
+[[Yue et al. 22]](https://arxiv.org/abs/2107.00986)  Blind Image Super-resolution with Elaborate Degradation Modeling on Noise and Kernel, CVPR, 2022. </br> 
+[[Guo et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_LAR-SR_A_Local_Autoregressive_Model_for_Image_Super-Resolution_CVPR_2022_paper.pdf)  LAR-SR: A Local Autoregressive Model for Image Super-Resolution, CVPR, 2022. </br> 
+[[Xu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Dual_Adversarial_Adaptation_for_Cross-Device_Real-World_Image_Super-Resolution_CVPR_2022_paper.pdf)  Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution, CVPR, 2022. </br> 
+[[Cao et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780318.pdf)  Reference-based Image Super-Resolution with Deformable Attention Transformer, ECCV, 2022. </br> 
+[[Li et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf)  MuLUT: Cooperating Multiple Look-Up Tables for Efficient Image Super-Resolution, ECCV, 2022. </br> 
  
 #### Deep HDR imaging 
 
@@ -405,7 +411,8 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Endo et al. 17]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/paper/DrTMO_SIGGRAPHAsia_light.pdf) Deep Reverse Tone Mapping, Siggraph, 2017. </br> 
 [[Liu et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Single-Image_HDR_Reconstruction_by_Learning_to_Reverse_the_Camera_Pipeline_CVPR_2020_paper.pdf) Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline, CVPR, 2020. </br> 
 
----
+-------Student's reading list----------------------------
+
 [[Metzler]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Metzler_Deep_Optics_for_Single-Shot_High-Dynamic-Range_Imaging_CVPR_2020_paper.pdf) Deep Optics for Single-shot High-dynamic-range Imaging, CVPR, 2020. </br> 
 [[Kim et al. 18]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20893-6_24.pdf) A Multi-purpose Convolutional Neural Network for Simultaneous Super-Resolution and High Dynamic Range Image Reconstruction, ACCV, 2018. </br> 
 [[Kim et al. 19]](https://arxiv.org/ftp/arxiv/papers/1904/1904.11176.pdf) Deep sr-itm: Joint learning of superresolution and inverse tone-mapping for 4k uhd hdr applications, ICCV,2019. </br> 
@@ -413,9 +420,14 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Kim et al. 20]](https://arxiv.org/pdf/2006.15833.pdf) End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images, AAAI, 2020. </br> 
 [[Chen et al. 21]](https://arxiv.org/pdf/2103.14943.pdf)  HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset, ICCV, 2021. </br> 
 [[Jiang et al. 21]](https://arxiv.org/pdf/2103.10982.pdf) HDR Video Reconstruction with Tri-Exposure Quad-Bayer Sensors, Arxiv, 2021. </br> 
+[[Mildenhall et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Mildenhall_NeRF_in_the_Dark_High_Dynamic_Range_View_Synthesis_From_CVPR_2022_paper.pdf)  NeRF in the Dark: High Dynamic Range View Synthesis From Noisy Raw Images, CVPR, 2022.  </br> 
+[[Huang et al. 22]](https://arxiv.org/abs/2111.14451) HDR-NeRF: High Dynamic Range Neural Radiance Fields, CVPR, 2022.  </br> 
+[[Vien et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf) Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging, ECCV, 2022.  </br> 
+
 
 
 ### Object detection
+
 [[Wu et al. 20]](https://arxiv.org/pdf/1908.03673.pdf) Recent advances in deep learning for object detection, Neurocomputing, 2020. </br> 
 [[Girshick et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) Fast R-CNN, ICCV, 2015.  </br> 
 [[Ghodrati et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghodrati_DeepProposal_Hunting_Objects_ICCV_2015_paper.pdf) DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers, ICCV, 2015. </br> 
@@ -432,7 +444,8 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Long et al. 16]](https://arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks, NIPS, 2016. </br> 
 [[Lin et al. 17]](https://arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection, CVPR, 2017.  </br> 
 [[He et al. 18]](url) Mask R-CNN, ICCV, 2018.  </br> 
-[[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf)  Towards Accurate One-Stage Object Detection with AP-Loss, CVPR, 2019.
+[[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf)  Towards Accurate One-Stage Object Detection with AP-Loss, CVPR, 2019.  </br> 
+
 
 #### Generic detection
 [[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
