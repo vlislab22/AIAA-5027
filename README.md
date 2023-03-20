@@ -447,7 +447,10 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf)  Towards Accurate One-Stage Object Detection with AP-Loss, CVPR, 2019.  </br> 
 
 
-#### Generic detection
+---------- Student's reading list----------
+
+###Generic detection
+
 [[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
 [[Chen et al. 19]](https://proceedings.neurips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)  Learning Efficient Object Detection Models with Knowledge Distillation, NIPS, 2019. </br> 
 [[Kang et al. 21]](https://papers.nips.cc/paper/2021/file/892c91e0a653ba19df81a90f89d99bcd-Paper.pdf)  Instance-Conditional Knowledge Distillation for Object Detection, NIPS, 2021. </br> 
@@ -462,6 +465,10 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection, CVPR,2021.  </br> 
 [[Zhou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.pdf) Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework, CVPR, 2021.  </br> 
 [[Yang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) Interactive Self-Training with Mean Teachers for Semi-supervised Object Detection, CVPR, 2021. </br> 
+[[Wang et al. 23]](https://arxiv.org/pdf/2207.02696.pdf) YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors, CVPR, 2023. </br>
+[[Feng et al. 22]](https://arxiv.org/abs/2205.04072) Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection, CVPR, 2022. </br> 
+[[Li et al. 22]](https://arxiv.org/abs/2111.13216) Cross-Domain Adaptive Teacher for Object Detection, CVPR, 2022. </br> 
+[[Yang et al. 22]](https://arxiv.org/abs/2111.11837) Focal and Global Knowledge Distillation for Detectors, CVPR, 2022. </br> 
 
 ---
 #### Face detection 
