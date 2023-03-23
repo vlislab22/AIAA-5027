@@ -32,24 +32,26 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persenation (2) Review due 3/12 (3) Project proposal kick-off (one page) |
 | 3/13 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
 | 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Persenation (2) Review due 3/19 |
-| 3/20 |Deep learning for scene understanding (I) Object detection & tracking |  |
-| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | Project mid-term presentation |
-| 3/27 |Deep learning for scene understanding (II) Semantic segmentation  |  |
-| 3/31 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/2 |
-| 4/7 |Computer vision with novel cameras (I) Event camera-based vision  |  |
-| 4/10 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/9 |
-| 4/14 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
-| 4/17 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/16 (3) Project meetings |
-| 4/21 |Depth and motion estimation (SLAM)  |  |
-| 4/24 |Depth and motion estimation (SLAM) | (1) Persenation (2) Review due 4/23 |
-| 4/28 |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
-| 5/8 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persenation (2) Review due 4/30 (3) Project meetings |
-| 5/12 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction) |  |
-| 5/15 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction)| (1) TA/Student lectures (2) final project Q/A  |
+| 3/20 |Deep learning for scene understanding (I) Object detection & tracking |   |
+| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | (1) Persenation (2) Review due 3/26  |
+| 3/27 |Project mid-term presentation | |
+| 3/31 |Project mid-term presentation | |
+| 4/7 |Deep learning for scene understanding (II) Semantic segmentation  |  |
+| 4/10 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/2 |
+| 4/14 |Computer vision with novel cameras (I) Event camera-based vision  |  |
+| 4/17 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/9 |
+| 4/21 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
+| 4/24 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/16 (3) Project meetings |
+| 4/28 |Depth and motion estimation (SLAM)  | |
+| 5/8  |Depth and motion estimation (SLAM) | (1) Persenation (2) Review due 4/23 |
+| 5/12 |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
+| 5/15 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persenation (2) Review due 4/30 (3) Project meetings |
 | 5/19 |Project presentation and final paper submission |  |
 | 5/22 |Project presentation and final paper submission | Submission due 5/30  |
 
-
+---------------------------------------------------------------------------------
+| 5/12 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction) |  |
+| 5/15 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction)| (1) TA/Student lectures (2) final project Q/A  |
 ##  Reading list
 
 ### DNN models in computer vision (VAEs, GANs, Diffusion models)
