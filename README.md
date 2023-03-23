@@ -37,9 +37,9 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 3/27 |Project mid-term presentation | |
 | 3/31 |Project mid-term presentation | |
 | 4/7 |Deep learning for scene understanding (II) Semantic segmentation  |  |
-| 4/10 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/2 |
+| 4/10 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/12 |
 | 4/14 |Computer vision with novel cameras (I) Event camera-based vision  |  |
-| 4/17 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/9 |
+| 4/17 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/19 |
 | 4/21 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
 | 4/24 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/16 (3) Project meetings |
 | 4/28 |Depth and motion estimation (SLAM)  | |
