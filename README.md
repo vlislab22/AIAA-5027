@@ -25,27 +25,27 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 2/13 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
 | 2/17 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
 | 2/20 | DNN models in computer vision (VAE, GAN, Diffusion models) |   |
-| 2/24 | DNN models in computer vision (VAE, GAN, Diffusion models) |  (1) Persenation (2) Review due 2/26 (3) Project meetings |
+| 2/24 | DNN models in computer vision (VAE, GAN, Diffusion models) |  (1) Persentation (2) Review due 2/26 (3) Project meetings |
 | 2/27 | Learning methods in computer vision (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
-| 3/3  | Learning methods in computer vision ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Persenation (2) Review due 3/5  |
+| 3/3  | Learning methods in computer vision ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Persentation (2) Review due 3/5  |
 | 3/6  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
-| 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persenation (2) Review due 3/12 (3) Project proposal kick-off (one page) |
+| 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persentation (2) Review due 3/12 (3) Project proposal kick-off (one page) |
 | 3/13 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
-| 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Persenation (2) Review due 3/19 |
+| 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Persentation (2) Review due 3/19 |
 | 3/20 |Deep learning for scene understanding (I) Object detection & tracking |   |
-| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | (1) Persenation (2) Review due 3/26  |
+| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | (1) Persentation (2) Review due 3/26  |
 | 3/27 |Project mid-term presentation | |
 | 3/31 |Project mid-term presentation | |
 | 4/3 |Deep learning for scene understanding (II) Semantic segmentation  |  |
-| 4/7 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/12 |
+| 4/7 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persentation (2) Review due 4/12 |
 | 4/10 |Computer vision with novel cameras (I) Event camera-based vision  |  |
-| 4/14 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/19 |
+| 4/14 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persentation (2) Review due 4/19 |
 | 4/17 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
-| 4/21 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/16 (3) Project meetings |
+| 4/21 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persentation (2) Review due 4/16 (3) Project meetings |
 | 4/24 |Depth and motion estimation (SLAM)  | |
 | 4/28 |Depth and motion estimation (SLAM) | (1) Persenation (2) Review due 4/23 |
 | 5/8  |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
-| 5/12 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persenation (2) Review due 4/30 (3) Project meetings |
+| 5/12 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persentation (2) Review due 4/30 (3) Project meetings |
 | 5/19 |Project presentation and final paper submission |  |
 | 5/22 |Project presentation and final paper submission | Submission due 5/30  |
 
