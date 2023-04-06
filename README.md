@@ -531,7 +531,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[He et al. 21]](https://arxiv.org/pdf/2103.05423.pdf) Deep Learning based 3D Segmentation: A Survey, Arxiv, 2021. </br>
 [[Minaee et al. 20]](https://arxiv.org/pdf/2001.05566v1.pdf) Image Segmentation Using Deep Learning: A Survey, Arxiv, 2020.  </br>
 
---- 
+-------Student's reading list----------------------------
  
 [[Huang et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf) CCNet: Criss-Cross Attention for Semantic Segmentation, ICCV, 2019. </br>
 [[Zhu et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.pdf) Asymmetric Non-local Neural Networks for Semantic Segmentation, ICCV, 2019. </br>
@@ -547,7 +547,11 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation, CVPR, 2020. </br>
 [[Sun et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf) ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps, ICCV, 2021. </br>
 [[Chang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf) Weakly-Supervised Semantic Segmentation via Sub-category Exploration, CVPR, 2020. </br>
-[[]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GANSeg_Learning_To_Segment_by_Unsupervised_Hierarchical_Image_Generation_CVPR_2022_paper.pdf) GANSeg: Learning to Segment by Unsupervised Hierarchical Image Generation, CVPR, 2022.
+[[He et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GANSeg_Learning_To_Segment_by_Unsupervised_Hierarchical_Image_Generation_CVPR_2022_paper.pdf) GANSeg: Learning to Segment by Unsupervised Hierarchical Image Generation, CVPR, 2022.</br>
+[[Zhou et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Semantic_Segmentation_A_Prototype_View_CVPR_2022_paper.pdf) Rethinking Semantic Segmentation: A Prototype View, CVPR, 2022. </br>
+[[Peng et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.pdf) Semantic-Aware Domain Generalized Segmentation, CVPR, 2022.  </br>
+[[Zhou et al. 22]](https://arxiv.org/pdf/2205.02833.pdf) Cross-view Transformers for real-time Map-view Semantic Segmentation, CVPR, 2022. </br>
+[[Wu et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890443.pdf) Dynamic Density-aware Active Domain Adaptation, ECCV, 2022. </br>
 
 ### Computer vision with novel camera sensors  (1)- Event-based vision
 [[Zhang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)  Learning to See in the Dark with Events, ECCV, 2020.  </br>
