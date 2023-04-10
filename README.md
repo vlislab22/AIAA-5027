@@ -625,8 +625,8 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
 [[Lin et al. 22]](https://arxiv.org/abs/2104.06405)  BARF : Bundle-Adjusting Neural Radiance Fields, ICCV, 2021. </br>
 [[Luo et al. 21]](https://arxiv.org/pdf/2210.13641.pdf)  NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields, CVPR, 2021. </br>
 [[Zhu et al. 22]](https://arxiv.org/abs/2112.12130)  NICE-SLAM: Neural Implicit Scalable Encoding for SLAM, CVPR, 2022. </br>
-[[Li et al. 23]](https://openreview.net/forum?id=QUK1ExlbbA)  Neural Implicit Scalable Encoding for SLAM, ICLR, 2023. </br>
-
+[[Li et al. 23]](https://openreview.net/forum?id=QUK1ExlbbA)  Neural Implicit Scalable Encoding for SLAM, ICLR, 2023 (first RGB-based approach). </br>
+[[Johari et al. 23]](https://openreview.net/forum?id=QUK1ExlbbA)  ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields, CVPR 2023 Highlight (coarse-to-fine approach). </br>
 
 ### Computer vision with novel camera sensors (II)
 [[Kuang et al. 19]](https://arxiv.org/ftp/arxiv/papers/1810/1810.05399.pdf) Thermal Infrared Colorization via Conditional Generative Adversarial Network， ICCP, 2019. </br>
