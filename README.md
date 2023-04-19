@@ -614,6 +614,7 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
 [[Xu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf) Motion Deblurring with Real Events, ICCV, 2021. </br> 
 
 ---------------students's reading list----------------------------------------------------------------------------------------------------------
+
 [[Lin et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)  Learning Event-Driven Video Deblurring and Interpolation, ECCV, 2020. </br>
 [[Federico et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)  Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy, CVPR, 2021. </br>
 [[Jing et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Turning_Frequency_to_Resolution_Video_Super-Resolution_via_Event_Cameras_CVPR_2021_paper.pdf)  Turning Frequency to Resolution: Video Super-resolution via Event Cameras, CVPR, 2021. </br>
@@ -628,8 +629,6 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
  [[Weng et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.pdf) Event-based Video Reconstruction Using Transformer, ICCV, 2021. </br>
  [[Zou et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_EventHPE_Event-Based_3D_Human_Pose_and_Shape_Estimation_ICCV_2021_paper.pdf) EventHPE: Event-based 3D Human Pose and Shape Estimation, ICCV, 2021. </br>
 [[Zhang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf) Object Tracking by Jointly Exploiting Frame and Event Domain, ICCV, 2021.  </br>
-
-
 [[Kim et al. 22]](https://arxiv.org/pdf/2203.12247.pdf) Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition, CVPR, 2022.  </br>
 [[Schaefer et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Schaefer_AEGNN_Asynchronous_Event-Based_Graph_Neural_Networks_CVPR_2022_paper.pdf) AEGNN: Asynchronous Event-Based Graph Neural Networks, CVPR, 2022.  </br>
 [[Zhou et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_EvUnroll_Neuromorphic_Events_Based_Rolling_Shutter_Image_Correction_CVPR_2022_paper.pdf) EvUnroll: Neuromorphic Events based Rolling Shutter Image Correction, CVPR, 2022.  </br>
